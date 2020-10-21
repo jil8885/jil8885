@@ -19,3 +19,7 @@
 
 
 [![Jeongin's github stats](https://github-readme-stats.vercel.app/api?username=jil8885&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Jeongin's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jil8885&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Jeongin's coding activity](https://github-readme-stats.vercel.app/api/wakatime?username=jil8885)](https://github.com/anuraghazra/github-readme-stats)
