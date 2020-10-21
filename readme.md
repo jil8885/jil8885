@@ -17,9 +17,8 @@
 <code><img alt="Python" src="https://user-images.githubusercontent.com/26512984/88481834-ab0dac00-cf98-11ea-93a7-7b23c240c59c.jpg" width="32"></code>
 <code><img alt="Git" src="https://user-images.githubusercontent.com/26512984/88481839-ad700600-cf98-11ea-8168-e795e299b730.png" width="32"></code>
 
+[![Jeongin's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jil8885&theme=dracula&layout=compact&exclude_repo=jil8885.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Jeongin's github stats](https://github-readme-stats.vercel.app/api?username=jil8885&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Jeongin's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jil8885&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Jeongin's coding activity](https://github-readme-stats.vercel.app/api/wakatime?username=jil8885)](https://github.com/anuraghazra/github-readme-stats)
+[![Jeongin's coding activity](https://github-readme-stats.vercel.app/api/wakatime?username=jil8885&v=2)](https://github.com/anuraghazra/github-readme-stats)
