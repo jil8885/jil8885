@@ -13,6 +13,5 @@
 - 📝 I mainly use Python, and I am interested in new technology.
 - 🙌 I enjoy talking about development.
 
-[![Jeongin's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jil8885&theme=dracula&layout=donut-vertical&hide=javascript,html,jupyter%20notebook&exclude_repo=python-vaction&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Jeongin's github stats](https://github-readme-stats.vercel.app/api?username=jil8885&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+---
+![](./profile-3d-contrib/profile-green-animate.svg)
